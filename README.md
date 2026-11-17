@@ -2,7 +2,9 @@
 
 A free, open-source flute practice app. Learn to read your first notes, follow a short melody, see its fingerings, and use your microphone to check your pitch. No account, build process, external services, or third-party libraries are required.
 
-The app includes sheet practice with live note detection, an adjustable metronome, a tuner, and a timed note-reading trainer. Microphone audio is processed on your device.
+The app includes four beginner lessons, sheet practice with live note detection, an adjustable metronome, a tuner, and a timed note-reading trainer. Practice original beginner arrangements of Hot Cross Buns, Mary Had a Little Lamb, and the opening of Beethoven’s Ode to Joy, plus a one-octave G major scale. The historical melodies are public domain in the United States; arrangements and software in this project are MIT-licensed. Microphone audio is processed on your device.
+
+The sheet displays note values and melody playback follows them. Note detection advances through correctly played pitches; it does not grade rhythm or tone quality. The metronome is a separate practice aid.
 
 ## Run locally
 
